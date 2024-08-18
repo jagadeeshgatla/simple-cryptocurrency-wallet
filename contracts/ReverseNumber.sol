@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.8.2 <0.9.0;
-contract Day6 {
+contract ReverseNumberSol {
 
 function reverseDigit(uint n) public pure returns(uint)
 {
